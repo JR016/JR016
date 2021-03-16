@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JR016.
+- 👀 I’m interested in Front-End Web Development and Python Programming.
+- 🌱 I’m currently learning Responsive Web Design.
+- 💞️ I’m looking to collaborate on Front-End Projects.
